@@ -46,19 +46,19 @@ I am a passionate Computer Science student focusing on building scalable web app
 
 
 <p align="center">
-  <a href="https://github.com/mangal1910">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=mangal1910&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
+  <a href="https://github.com/himanshu8877">
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=himanshu8877&langs_count=8&layout=compact&theme=radical&border_radius=10" alt="Top Languages" />
   </a>
 </p>
 
-![Top language](https://stats.pphat.top/languages?username=mangal1910)
+![Top language](https://stats.pphat.top/languages?username=himanshu8877)
 <br/>
 
 ## 📊 GitHub Stats
 
 <p align="center">
   <a href="https://github.com/himanshu8877">
-    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himanshu8877&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="mangal1910's GitHub Stats" />
+    <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=himanshu8877&cache_seconds=7200&layout=compact&theme=radical&border_radius=10" alt="himanshu8877's GitHub Stats" />
   </a>
   <img src="https://streak-stats.demolab.com/?user=himanshu8877&theme=radical&hide_border=true&cache_seconds=86400" alt="himanshu8877's GitHub Streak" width="49%" />
 </p>
